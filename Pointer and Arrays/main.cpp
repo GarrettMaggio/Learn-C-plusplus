@@ -6,7 +6,7 @@ using namespace std;
 // Function prototypes
 void rev(char[], int);
 
-int main()
+//int main()
 {
     // Local variables
     const int Fsize = 100, Nsize = 50, Modsize = 12000;

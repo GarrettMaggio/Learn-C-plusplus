@@ -3,4 +3,5 @@ project(Learn_C__)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Learn_C__ "Pointer and Arrays/main.cpp")
+add_executable(Learn_C__ "Pointer and Arrays/main.cpp"
+        "Input File Example/Source.cpp")
